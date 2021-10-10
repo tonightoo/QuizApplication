@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">なぞなぞ</string>
+    <string name="answer_button_text">答え</string>
+    <string name="back_button_text">戻る</string>
+
+    <string name="quiz_title1">1.北風</string>
+    <string name="quiz_title2">2.ハムの園</string>
+    <string name="quiz_title3">3.乗り物</string>
+    <string name="quiz_title4">4.イス</string>
+    <string name="quiz_title5">5.鯛</string>
+    <string name="quiz_title6">6.和</string>
+    <string name="quiz_title7">7.いっぱい</string>
+    <string name="quiz_title8">8.正○成和</string>
+    <string name="quiz_title9">9.故郷</string>
+    <string name="quiz_title10">10.緑チョキ</string>
+
+    <string name="quiz_content1">北風の真ん中を飛んでいるとりはなぁに？</string>
+    <string name="quiz_content2">ここは楽しいハムの園。どこ？</string>
+    <string name="quiz_content3">洗ってばかりいる乗り物な～んだ？</string>
+    <string name="quiz_content4">困っているときに欲しくなるイスってなぁに？</string>
+    <string name="quiz_content5">鯛が危ないことを教えてくれる場所ってど～こだ？</string>
+    <string name="quiz_content6">ひっくり返すと中に和が入っている都道府県ってどこだ？</string>
+    <string name="quiz_content7">ある動物が二頭 車に乗ったらもういっぱいになっちゃいました。何の動物？</string>
+    <string name="quiz_content8">正○成和 ○にはいる漢字な～んだ？</string>
+    <string name="quiz_content9">故郷に帰っている虫ってなぁに？</string>
+    <string name="quiz_content10">好きな食べ物は「緑チョキ」　どんな食べ物？</string>
+
+    <string name="quiz_answer1">鷹</string>
+    <string name="quiz_answer2">公園</string>
+    <string name="quiz_answer3">戦車</string>
+    <string name="quiz_answer4">アドバイス</string>
+    <string name="quiz_answer5">大気圏</string>
+    <string name="quiz_answer6">神奈川</string>
+    <string name="quiz_answer7">牛（ギュウギュウになっちゃう）</string>
+    <string name="quiz_answer8">和（大正　昭和　平成　令和）</string>
+    <string name="quiz_answer9">寄生虫（帰省中）</string>
+    <string name="quiz_answer10">グリーンピース</string>
+
+</resources>
